@@ -16,3 +16,14 @@ AND GATE
 XOR GATE 
 
 ![xor gate](https://github.com/Guru-vedhanth/BOCS/assets/88874107/4538c7d2-c2b1-43d7-957c-902ec09b86fa)
+
+
+MUX
+
+![MUX GATE ](https://github.com/Guru-vedhanth/BOCS/assets/88874107/10df8d6c-676d-4e55-9bed-e5aac67c9ca8)
+
+
+DMUX
+
+![DMUX](https://github.com/Guru-vedhanth/BOCS/assets/88874107/1eb11f00-5b3e-4ace-97ea-5645713d4a58)
+
