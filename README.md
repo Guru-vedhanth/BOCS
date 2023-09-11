@@ -27,3 +27,14 @@ DMUX
 
 ![DMUX](https://github.com/Guru-vedhanth/BOCS/assets/88874107/1eb11f00-5b3e-4ace-97ea-5645713d4a58)
 
+HALF-ADDER
+
+![Halfadder](https://github.com/Guru-vedhanth/BOCS/assets/88874107/5d4dad6d-269b-49e5-b1d0-3cfe6fefcdb9)
+
+FULL-ADDER
+
+![Full-adder](https://github.com/Guru-vedhanth/BOCS/assets/88874107/a3af8ed3-a41d-415f-beaf-ba923b610a48)
+
+
+
+
