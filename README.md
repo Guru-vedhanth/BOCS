@@ -35,6 +35,20 @@ FULL-ADDER
 
 ![Full-adder](https://github.com/Guru-vedhanth/BOCS/assets/88874107/a3af8ed3-a41d-415f-beaf-ba923b610a48)
 
+ADD
+
+![Add](https://github.com/Guru-vedhanth/BOCS/assets/88874107/78ba5858-069b-4a2f-81c6-896ceb6d5399)
+
+INC
+
+![Inc 16](https://github.com/Guru-vedhanth/BOCS/assets/88874107/e16d04be-fe42-4251-b2bb-3e210e20e958)
+
+ALU
+
+![Alu](https://github.com/Guru-vedhanth/BOCS/assets/88874107/eae14800-7818-461b-9cc1-4df66375306b)
+
+
+
 
 
 
