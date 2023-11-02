@@ -48,6 +48,9 @@ ALU
 ![Alu](https://github.com/Guru-vedhanth/BOCS/assets/88874107/eae14800-7818-461b-9cc1-4df66375306b)
 
 
+Multi.asm
+
+![multi](https://github.com/Guru-vedhanth/BOCS/assets/88874107/759dba3b-74fa-48e3-aa5e-7b3ff56e9699)
 
 
 
