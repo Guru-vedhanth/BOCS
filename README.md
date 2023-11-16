@@ -43,6 +43,7 @@ INC
 
 ![Inc 16](https://github.com/Guru-vedhanth/BOCS/assets/88874107/e16d04be-fe42-4251-b2bb-3e210e20e958)
 
+
 ALU
 
 ![Alu](https://github.com/Guru-vedhanth/BOCS/assets/88874107/eae14800-7818-461b-9cc1-4df66375306b)
@@ -53,5 +54,7 @@ Multi.asm
 ![multi](https://github.com/Guru-vedhanth/BOCS/assets/88874107/759dba3b-74fa-48e3-aa5e-7b3ff56e9699)
 
 
+Memory.hdl
 
+![Screenshot 2023-11-16 160548](https://github.com/Guru-vedhanth/BOCS/assets/88874107/6bd92109-26ec-44e3-845b-391fb4277b3e)
 
