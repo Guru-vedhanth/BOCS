@@ -69,7 +69,9 @@ PONG
 ![Pong](https://github.com/Guru-vedhanth/BOCS/assets/88874107/dc26fe21-1ee9-456c-84d2-6b49b6bdb39d)
 
 
+RECTANGLE
 
+![RECTANGLE](https://github.com/guruvedhanth-s/BOCS/assets/88874107/2626205a-a44c-416c-8099-fe6a3e22b332)
 
 
 
